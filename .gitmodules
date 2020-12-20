@@ -1,0 +1,3 @@
+[submodule "InTAS"]
+	path = InTAS
+	url = https://github.com/silaslobo/InTAS.git
